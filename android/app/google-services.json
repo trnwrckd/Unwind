@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209951639609",
+    "firebase_url": "https://therapy-zone-63caf.firebaseio.com",
+    "project_id": "therapy-zone-63caf",
+    "storage_bucket": "therapy-zone-63caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209951639609:android:6901313e63de06473ea5e8",
+        "android_client_info": {
+          "package_name": "com.example.therapy_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209951639609-dkfb4sn6ar2lmd5p6lvi7vam9brfpee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1v0BamZmkG2Ja-vZ7X6k-00Ny19IuoeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209951639609-dkfb4sn6ar2lmd5p6lvi7vam9brfpee9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
